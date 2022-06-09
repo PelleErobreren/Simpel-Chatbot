@@ -1,2 +1,3 @@
-# Simple-Chatty-Bot
-I learned Java's basic syntax and wrote a simple program using variables, conditions, loops, and methods.
+# Simpel-Chatbot
+
+Jeg lærte Javas grundlæggende syntaks og skrev et simpelt program ved hjælp af variabler, betingelser, loops og metoder.
