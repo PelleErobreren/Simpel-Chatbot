@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main
 {
     final static Scanner scanner = new Scanner(System.in);
@@ -67,7 +68,6 @@ public class Main
             input = scanner.nextInt();
         }
     }
-
 
     static void end()
     {
